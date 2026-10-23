@@ -1,0 +1,6 @@
+{
+  "name": "NEEV RACING 3D",
+  "description": "An adrenaline-pumping 3D endless highway car racing game featuring procedural supercars, multi-lane traffic, nitro boost, power-ups, and multiple highway environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
